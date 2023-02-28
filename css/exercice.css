@@ -33,6 +33,11 @@
 }
 
 /* 5. exercice-flow-2 */
+.exercice-flow-2 .container-small {
+  display: flex;
+  flex-flow: column wrap;
+  align-items: flex-start;
+}
 
 /* 6. exercice-all-in-1 */
 
