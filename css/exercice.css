@@ -6,8 +6,9 @@
 /* 2. exercice-baseline-2 */
 .exercice-baseline-2 .container-small {
   display: flex;
-  flex-flow: row-reverse;
+  flex-flow: row-reverse wrap-reverse;
   align-items: baseline;
+  align-content: center;
 }
 
 .exercice-baseline-2 .element-red {
